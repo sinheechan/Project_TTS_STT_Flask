@@ -41,7 +41,6 @@ OpenAI Whisper는 텍스트를 입력으로 받아들여 자연스러운 대화�
 
 ## TTS, STT WorkFlow
 
-[test.ipynb]
-
+[STT_TTS_WorkFlow.ipynb]
 
     
