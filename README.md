@@ -4,7 +4,7 @@ Tacotron2 기반 한국어 방언 (사투리) 음성 합성 모델 학습
 
 <br />
 
-< img src= >
+<img src="image/flask_TTS_result.png">
 
 <br />
 
