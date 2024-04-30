@@ -3,7 +3,7 @@ Tacotron2를 활용한 한국 5개 지역의 사투리로 말하는 인공지능
 
 <br />
 
-< img src= >
+<img src="image/flask_TTS_result.png">
 
 <br />
 
